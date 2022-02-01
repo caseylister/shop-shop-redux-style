@@ -11,7 +11,7 @@
   
 This application takes an e-commerce site and uses Redux to manage global state rather than the Context API.
 
-Deployed Application - 
+[Deployed Application](https://young-inlet-18967.herokuapp.com/)
   
 ## [Installation](#Contents)
   
